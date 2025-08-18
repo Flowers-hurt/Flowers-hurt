@@ -7,8 +7,8 @@
 - 💬 微信：Flowers_hurt
 - 🌱 CSDN：[花伤情犹在](https://blog.csdn.net/qq_31762741)
 
-![](https://github-readme-stats.vercel.app/api?username=lvcongzheng520&bg_color=15,e96443,904e95&text_color=fff&title_color=fff&show_icons=true&icon_color=fff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lvcongzheng520&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Flowers-hurt&bg_color=15,e96443,904e95&text_color=fff&title_color=fff&show_icons=true&icon_color=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowers-hurt&layout=compact)
 
 **Language :** 
 ![](https://img.shields.io/badge/Java-8-yellow)
