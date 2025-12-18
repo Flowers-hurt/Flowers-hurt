@@ -45,6 +45,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowers-hurt&layout=compact&theme=radical" height="160"/>
 </p>
 
+<div align="center">
+  <img src="https://metrics.lecoq.io/Flowers-hurt?template=terminal&base=header,activity,community,repositories,metadata"  />
+  <br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flowers-hurt&theme=radical&area=true&hide_border=true" />
+</div>
+
 ---
 
 ### 🚀 常用技能 & 爱好
