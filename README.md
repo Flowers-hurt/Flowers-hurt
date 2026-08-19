@@ -185,8 +185,6 @@ public class Profile {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowers-hurt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=8B949E"/>
-
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Flowers-hurt&bg_color=00000000&color=8B949E&title_color=818CF8&line=6366F1&point=22D3EE&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Activity"/>
 
 <br/><br/>
