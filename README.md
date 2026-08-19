@@ -185,12 +185,9 @@ public class Profile {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Flowers-hurt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=818CF8&icon_color=22D3EE&text_color=8B949E&ring_color=A855F7"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flowers-hurt&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=818CF8&text_color=8B949E"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Flowers-hurt&bg_color=00000000&color=8B949E&title_color=818CF8&line=6366F1&point=22D3EE&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Activity"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Flowers-hurt&theme=nord&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=6"/>
 
 <br/><br/>
 
