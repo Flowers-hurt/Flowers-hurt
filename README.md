@@ -209,10 +209,6 @@ public class Profile {
       <br/><sub>技术博客 · 持续更新</sub>
     </td>
     <td align="center" width="180">
-      <img src="https://img.shields.io/badge/-WeChat-22D3EE?style=for-the-badge&logo=wechat&logoColor=white&labelColor=0D1117"/>
-      <br/><sub><code>Flowers_hurt</code></sub>
-    </td>
-    <td align="center" width="180">
       <a href="https://github.com/Flowers-hurt">
         <img src="https://img.shields.io/badge/-GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
       </a>
