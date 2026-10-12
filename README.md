@@ -11,11 +11,6 @@
 <a href="https://blog.csdn.net/qq_31762741">
   <img src="https://img.shields.io/badge/CSDN-%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-6366F1?style=flat-square&logo=csdn&logoColor=white&labelColor=0D1117"/>
 </a>
-<img src="https://img.shields.io/badge/WeChat-Flowers__hurt-22D3EE?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117"/>
-<a href="https://github.com/Flowers-hurt?tab=followers">
-  <img src="https://img.shields.io/github/followers/Flowers-hurt?style=flat-square&logo=github&logoColor=white&label=Followers&color=A855F7&labelColor=0D1117"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=Flowers-hurt&style=flat-square&label=Profile%20Views&color=6366F1"/>
 
 <br/><br/>
 
