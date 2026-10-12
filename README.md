@@ -180,8 +180,6 @@ public class Profile {
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Flowers-hurt&bg_color=00000000&color=8B949E&title_color=818CF8&line=6366F1&point=22D3EE&area=true&area_color=A855F7&hide_border=true&custom_title=Contribution%20Activity"/>
-
 <br/><br/>
 
 <b>🐍 Contribution Snake</b>
