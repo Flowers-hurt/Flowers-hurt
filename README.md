@@ -28,31 +28,32 @@
 
 <table>
 <tr>
-<td width="54%" valign="top">
+<td width="50%" valign="top">
 
 ```python
-from agents import Fleet, Human
-
 class Me(Human):
-    name  = "花伤情犹在"
-    role  = "AI Development Engineer"
-    based = "Hong Kong"
+    name = "花伤情犹在"
+    role = "AI Dev Engineer"
+    city = "Hong Kong"
 
-    models = ["Claude", "GPT", "Gemini",
-              "Grok", "DeepSeek", "Kimi"]
-    tools  = ["Multica", "T3 Code", "Orca",
-              "OpenBot", "OpenMaus", "Muse", "Cue"]
+    models = ["Claude", "GPT",
+              "Gemini", "Grok",
+              "DeepSeek", "Kimi"]
+    tools  = ["Multica", "T3 Code",
+              "Orca", "OpenBot",
+              "OpenMaus", "Muse",
+              "Cue"]
 
-    def work(self, idea: str):
-        plan = self.think(idea)          # 人负责想清楚
-        return Fleet(self.tools).ship(plan)  # Agent 负责写出来
-
-    def __repr__(self):
-        return "👋 欢迎来到我的 GitHub"
+    def work(self, idea):
+        # 人负责想清楚
+        plan = self.think(idea)
+        # Agent 负责写出来
+        return Fleet(self.tools) \
+            .ship(plan)
 ```
 
 </td>
-<td width="46%" valign="top">
+<td width="50%" valign="top">
 
 <br/>
 
