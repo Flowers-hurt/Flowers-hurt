@@ -42,7 +42,7 @@ class Me(Human):
     tools  = ["Multica", "T3 Code",
               "Orca", "OpenBot",
               "OpenMaus", "Muse",
-              "Cue"]
+              "Cue", "Grok Bot"]
 
     def work(self, idea):
         # 人负责想清楚
@@ -109,15 +109,16 @@ class Me(Human):
 
 <!-- ── Agent 工具 ── -->
 <table>
-<tr><td colspan="7" align="center"><b>&nbsp;🛸&nbsp; Agent Tooling &nbsp;·&nbsp; AI 工具 &nbsp;</b></td></tr>
+<tr><td colspan="8" align="center"><b>&nbsp;🛸&nbsp; Agent Tooling &nbsp;·&nbsp; AI 工具 &nbsp;</b></td></tr>
 <tr>
-<td align="center" width="96"><a href="https://github.com/multica-ai/multica"><img src="./assets/ai/multica.svg" width="50"/></a><br/><sub><b>Multica</b></sub><br/><sub>人机协作</sub></td>
-<td align="center" width="96"><a href="https://github.com/pingdotgg/t3code"><img src="./assets/ai/t3code.svg" width="50"/></a><br/><sub><b>T3 Code</b></sub><br/><sub>Agent 控制台</sub></td>
-<td align="center" width="96"><a href="https://github.com/stablyai/orca"><img src="./assets/ai/orca.svg" width="50"/></a><br/><sub><b>Orca</b></sub><br/><sub>Agent 舰队</sub></td>
-<td align="center" width="96"><a href="https://github.com/nightly-labs/openbot"><img src="./assets/ai/openbot.svg" width="50"/></a><br/><sub><b>OpenBot</b></sub><br/><sub>AI 队友</sub></td>
-<td align="center" width="96"><a href="https://github.com/milind-soni/OpenMausBot"><img src="./assets/ai/openmaus.svg" width="50"/></a><br/><sub><b>OpenMaus</b></sub><br/><sub>虚拟机 Agent</sub></td>
-<td align="center" width="96"><a href="https://developer.meta.com/ai/products/muse-code/"><img src="./assets/ai/muse.svg" width="50"/></a><br/><sub><b>Muse</b></sub><br/><sub>Meta</sub></td>
-<td align="center" width="96"><a href="https://cue.im"><img src="./assets/ai/cue.svg" width="50"/></a><br/><sub><b>Cue</b></sub><br/><sub>Manus</sub></td>
+<td align="center" width="88"><a href="https://github.com/multica-ai/multica"><img src="./assets/ai/multica.svg" width="50"/></a><br/><sub><b>Multica</b></sub><br/><sub>人机协作</sub></td>
+<td align="center" width="88"><a href="https://github.com/pingdotgg/t3code"><img src="./assets/ai/t3code.svg" width="50"/></a><br/><sub><b>T3 Code</b></sub><br/><sub>Agent 控制台</sub></td>
+<td align="center" width="88"><a href="https://github.com/stablyai/orca"><img src="./assets/ai/orca.svg" width="50"/></a><br/><sub><b>Orca</b></sub><br/><sub>Agent 舰队</sub></td>
+<td align="center" width="88"><a href="https://github.com/nightly-labs/openbot"><img src="./assets/ai/openbot.svg" width="50"/></a><br/><sub><b>OpenBot</b></sub><br/><sub>AI 队友</sub></td>
+<td align="center" width="88"><a href="https://github.com/milind-soni/OpenMausBot"><img src="./assets/ai/openmaus.svg" width="50"/></a><br/><sub><b>OpenMaus</b></sub><br/><sub>虚拟机 Agent</sub></td>
+<td align="center" width="88"><a href="https://developer.meta.com/ai/products/muse-code/"><img src="./assets/ai/muse.svg" width="50"/></a><br/><sub><b>Muse</b></sub><br/><sub>Meta</sub></td>
+<td align="center" width="88"><a href="https://cue.im"><img src="./assets/ai/cue.svg" width="50"/></a><br/><sub><b>Cue</b></sub><br/><sub>Manus</sub></td>
+<td align="center" width="88"><a href="https://x.ai/bot"><img src="./assets/ai/grokbot.svg" width="50"/></a><br/><sub><b>Grok Bot</b></sub><br/><sub>xAI</sub></td>
 </tr>
 </table>
 
@@ -125,50 +126,7 @@ class Me(Human):
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<!-- ══════════════════════════════ 03 PROJECTS ═══════════════════════ -->
-<h3>
-  <img src="./assets/ai/gemini.svg" width="22" align="top"/>
-  &nbsp;AI Projects&nbsp;<sub><sup>AI 落地作品</sup></sub>
-</h3>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📬 [MailCopilot](https://github.com/Flowers-hurt/MailCopilot)**<br/>
-<sub>客服邮件自动回复：Zoho 收发信 + OpenAI 分类起草 + 飞书卡片人工审核，未经人工确认不发出任何回复</sub><br/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python"/> <img src="https://img.shields.io/badge/OpenAI-0D1117?style=flat-square&logo=openai"/> <img src="https://img.shields.io/badge/Human--in--the--loop-0D1117?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🧭 [study-agent](https://github.com/Flowers-hurt/study-agent)**<br/>
-<sub>LangGraph + Gemini 智能体示例：工具调用、条件路由、标准 Python 项目结构，附详细中文注释</sub><br/>
-<img src="https://img.shields.io/badge/LangGraph-0D1117?style=flat-square&logo=langchain"/> <img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🖼️ [codex-image-fix](https://github.com/Flowers-hurt/codex-image-fix)**<br/>
-<sub>一键修复 Codex / ChatGPT 走 sub2api 自定义 Provider 无法生成图片的问题 · CLI + Electron 桌面版</sub><br/>
-<img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=openai"/> <img src="https://img.shields.io/badge/Electron-0D1117?style=flat-square&logo=electron"/>
-
-</td>
-<td width="50%" valign="top">
-
-**🖥️ [RdpHelper](https://github.com/Flowers-hurt/RdpHelper)**<br/>
-<sub>一键开启 Windows 远程桌面 / OpenSSH，IP 黑白名单 + 按需内网穿透，Win11 毛玻璃风格 WPF</sub><br/>
-<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=dotnet"/> <img src="https://img.shields.io/badge/WPF-0D1117?style=flat-square&logo=windows"/>
-
-</td>
-</tr>
-</table>
-
-<img src="./assets/divider.svg" width="100%"/>
-
-<!-- ══════════════════════════════ 04 STACK ══════════════════════════ -->
+<!-- ══════════════════════════════ 03 STACK ══════════════════════════ -->
 <h3>
   <img src="./assets/ai/deepseek.svg" width="22" align="top"/>
   &nbsp;Tech Stack&nbsp;<sub><sup>技术栈</sup></sub>
@@ -193,7 +151,7 @@ class Me(Human):
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<!-- ══════════════════════════════ 05 STATS ══════════════════════════ -->
+<!-- ══════════════════════════════ 04 STATS ══════════════════════════ -->
 <h3>
   <img src="./assets/ai/grok.svg" width="22" align="top"/>
   &nbsp;GitHub Activity&nbsp;<sub><sup>贡献动态</sup></sub>
@@ -206,7 +164,7 @@ class Me(Human):
 
 <img src="./assets/divider.svg" width="100%"/>
 
-<!-- ══════════════════════════════ 06 CONTACT ════════════════════════ -->
+<!-- ══════════════════════════════ 05 CONTACT ════════════════════════ -->
 <h3>
   <img src="./assets/ai/kimi.svg" width="22" align="top"/>
   &nbsp;Get In Touch&nbsp;<sub><sup>联系我</sup></sub>
